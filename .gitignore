@@ -12,4 +12,5 @@ local_settings.py
 
 # Virtual environment
 Scripts/
+venv/
 lib/
